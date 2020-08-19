@@ -1,0 +1,22 @@
+body{
+    margin: 20px 10px;
+    font-family: Raleway;
+}
+th, td{
+    padding:20px;
+    
+}
+
+th{
+    background-color: rgb(102, 5, 99);
+    color: white;
+    font-size: 20px;
+}
+
+td{
+    border: 1px solid black;
+}
+
+table{
+    border: 1px solid orchid;
+}
